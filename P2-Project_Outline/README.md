@@ -1,18 +1,30 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
 
 ### Overview
-Include overview here
+
+As someone who loves to cook food almost as much as I love to eat it, I wanted to make an app that would help me track recipes that users create as they develop them.
+This app is meant to function as an organizational tool, so by design, the recipes would be stored privately and will only be shared with users who were explicitely granted permissions to view them.
+This app will enable users to name their recipes and log details such as ingredients, tools, and steps used to make their latest culinary concoction. Importantly, it will also enables users to make comments so they can refer back to remind themselves what they thought about their cooking attempt. They will also be able to easily mark off if the recipe contains common allergens and what dietary restrictions it accomodates.
+
 ### Features
-Include Features here
+
+- User authentication - Users will be able to create their own account profile that they can use to login.
+- Create / edit / delete recipe - Users will be able to create a recipe using the template offered on the website. They can save that recipe and view it later. They can edit and delete that recipe as well.
+- Search/filter recipe - Users will be able to use a search function with filtering options to locate recipes that meet their desired search parameters.
+
 ### Technologies
-Include Technologies here
+
+- C#
+- Visual Studio
+- MySQL
+- ASP.NET Core 6.0
+- Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+I will need to learn how to implement user authentication.
+I will also need to learn how to implement edit and delete features within an application.
+
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/gcbKyJDC/liftoff-project
