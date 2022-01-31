@@ -7,4 +7,7 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+* Project Repo Link can be found here: https://github.com/ajharris96/ProjectCYOAAlso 
+
+add a README.md file to your project repository.
