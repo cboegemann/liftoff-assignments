@@ -8,3 +8,5 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
+
+file:///Users/christineboegemann/Downloads/CYOA%20Project%20Presentation.pdf
